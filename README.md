@@ -16,7 +16,7 @@ Bu proje, **HIGGS Veri Seti** üzerinde veri sızıntısını (data leakage) tam
 
 ## Kurulum ve Kullanım
 1. Depoyu bilgisayarınıza klonlayın veya indirin, ardından gerekli kütüphaneleri yükleyin:
-```bash
+bash
 pip install -r requirements.txt
 
 Tüm pipeline sürecini ve model eğitimlerini başlatmak için şu komutu çalıştırın:
